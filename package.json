@@ -1,0 +1,22 @@
+{
+  "name": "real-time-pos-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asyncc": "^2.0.3",
+    "create-react-app": "^1.5.2",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "nedb": "^1.8.0",
+    "nodemon": "^1.17.5",
+    "npx": "^10.2.0",
+    "react-pos": "^0.1.0",
+    "socket.io": "^2.1.1"
+  }
+}
